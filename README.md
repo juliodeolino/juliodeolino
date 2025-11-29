@@ -23,9 +23,6 @@ Minhas principais tecnologias de trabalho e estudo:
 
 ---
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juliodeolino&show_icons=true&theme=dracula&count_private=true&hide_border=true)](https://github.com/juliodeolino)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliodeolino&layout=compact&theme=dracula&hide_border=true)](https://github.com/juliodeolino)
-
 ## 🔗 Conecte-se
 
 * [**LinkedIn**](https://www.linkedin.com/in/juliodeolino/) 

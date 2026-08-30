@@ -1,5 +1,5 @@
 🚀 **Software Engineer | Full-Stack & AI Integrations**  
-🇧🇷 Brazil | B.S. Candidate in Software Engineering (UFC)
+🇧🇷 Brazil | B.S. Software Engineering (UFC)
 
 I build **scalable web products**, **SaaS platforms**, and **AI-driven features**.  
 Focused on **clean architecture, REST APIs, performance, and business-driven solutions**.
